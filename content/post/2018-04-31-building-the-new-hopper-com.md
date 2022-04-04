@@ -1,12 +1,11 @@
 ---
-title: Building the new Hopper.com in 2018
-date: 2018-04-31
-hero: "/images/hero-2.jpg"
+title: Get the Digital Marketing Era into your business DNA
+date: 2022-04-03T06:00:00+00:00
+hero: "/images/planning-business-strategy-2021-08-27-14-38-48-utc.jpg"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 4
-authors:
-- Dennis Brotzky
+authors: []
 
 ---
 Business has changed at an accelerated pace in recent years and the digital era is already with us. The advantages of adapting and including digital strategies to your business are huge.
