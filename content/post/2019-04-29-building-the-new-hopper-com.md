@@ -1,11 +1,10 @@
 ---
 title: Medical Digital Marketing, why not?
 date: 2019-04-29
-hero: "/images/hero-11.jpg"
+hero: "/images/modern-technology-in-healthcare-and-medicine-2021-08-26-23-02-49-utc.jpg"
 excerpt: ''
 timeToRead: 4
-authors:
-- Dennis Brotzky
+authors: []
 
 ---
 **The digital presence in the health sector sets trends and those who are not on the Internet simply do not exist and limit their market.** 
